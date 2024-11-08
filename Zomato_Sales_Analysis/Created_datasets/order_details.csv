@@ -1,0 +1,1001 @@
+order_id,customer_id,restaurant_id,order_item,order_date,order_time,order_status,total_amount
+18152,64884,32,Mixed Beans Rice,08/06/20,14:47:02,Completed,65
+15040,20425,11,Rich Combo,27/12/19,18:26:52,Completed,421
+15424,579,23,Arrabiata Pasta Chicken,29/11/17,22:15:35,Completed,93
+16419,80185,28,Nuttela Shake,01/02/19,09:47:27,Completed,139
+18790,576,41,Bhatti Ka Murg (350 Gm),16/04/18,01:01:49,Completed,10755
+19968,12257,11,Tom Yam Soup,09/07/19,15:00:21,Completed,356
+12948,70552,37,Khari Platter,19/03/20,03:08:58,Completed,15606
+15285,15664,9,Kashmiri Gulkand,28/08/18,15:36:19,Completed,190
+18660,34452,96,Mava Masti,09/05/19,18:26:27,Completed,495
+11123,29131,52,Veg Fingers 5 Pcs,27/12/19,05:59:05,Completed,146222
+18913,36734,96,Butter Chicken (Includes 2 Roomali) (1/2 kg),27/12/19,19:31:56,Completed,2111
+10989,16639,24,Chicken Leg (2 pcs),20/04/18,00:50:51,Completed,69
+18434,34452,24,Veg Party Box,08/06/20,14:26:31,Completed,79
+19691,576,41,Veg Fingers 5 Pcs,17/06/20,02:57:27,Completed,306
+19063,17934,15,Swiss Cake Ice Cream 240ml,19/06/18,05:19:50,Completed,514
+17300,30960,52,Chicken Chili Garlic Oyester Style,13/09/18,03:08:58,Completed,292
+19308,61770,48,Dehradun Rusk (280gms),04/10/19,06:01:29,Completed,1213
+15598,65084,1,Oil Mayonnaise,05/08/19,21:24:12,Completed,421
+15426,19448,9,8' Onion Capsicum corn,03/12/18,01:39:09,Completed,79
+11519,34452,59,Paneer grilled sandwich,05/11/19,13:58:20,Completed,190
+12832,66599,62,Chicken Seekh Shwarama,05/12/17,02:43:43,Completed,356
+18315,63588,12,Kadhai Chicken Rajma Ricecombo Meal,28/09/18,07:35:50,Completed,106
+10477,73692,48,Roasted Corn Chowder,08/06/20,15:29:31,Completed,19208
+11120,91913,41,Swiss Cake Ice Cream 240ml,06/08/19,02:43:43,Completed,1523
+18475,49183,59,Rich Combo,30/04/20,15:42:53,Completed,12486
+16066,2496,51,Chatpata Corn,06/02/20,03:50:07,Completed,796
+15223,54375,41,Butter Chicken (Includes 2 Roomali) (1/2 kg),23/04/19,20:45:40,Completed,65
+19524,576,57,Cheese Topi Masala Dosa,27/02/18,15:36:19,Completed,384
+16153,15603,5,Butter Gravy Pulav,04/11/19,15:42:53,Completed,2111
+17257,66599,47,Tender  Ice Cream,04/10/19,08:09:35,Completed,10755
+10403,53930,66,Chicken Curry +  Tawa Roti (5pc) + Salad,13/09/18,13:48:09,Completed,102
+11295,20425,9,Special Coconut (200 gms),10/04/19,15:05:40,Completed,1245
+15968,69103,63,Ghee Idly 3pcs,11/07/18,15:36:19,Not Completed,93
+14483,76700,81,Mushroom Schezwan Panner Dosa,04/11/19,18:31:43,Completed,111
+19623,89578,28,Ghee Idly 3pcs,08/03/19,18:25:20,Completed,134
+12180,80185,35,Chilli Chinese Dosa,16/11/18,11:39:35,Completed,12486
+13715,35719,1,Malai Palak Kofta (Half),11/07/18,02:57:27,Completed,111
+11052,2496,62,Super Man,11/07/18,03:59:57,Completed,356
+15047,80185,62,Veg Fingers 5 Pcs,23/03/20,13:58:20,Completed,241
+17712,91913,72,Korean Bibimbap Prawns,12/07/18,20:10:15,Completed,5537
+14630,80185,13,Cream of Mushroom Soup,06/02/20,12:49:35,Completed,394
+17053,576,99,Veg Khada Masala 400gm.,28/08/18,02:57:27,Completed,894
+19732,28534,28,Bbq Chicken Pizza Medium,16/04/18,13:48:46,Completed,15606
+10432,54375,33,Kumb Taka- Tak,28/10/19,19:27:11,Completed,190
+13861,65084,6,Kashmiri Gulkand,02/05/19,20:55:53,Completed,111
+16703,51686,99,Kashmiri Gulkand,29/11/17,04:41:36,Completed,146222
+17901,84005,65,Crispy Chilli Veg Mix,08/07/19,12:49:35,Not Completed,70315
+18951,35796,47,Rich Combo,20/02/19,19:10:42,Completed,5537
+14479,87071,81,Korean Bibimbap Prawns,27/12/19,00:55:43,Completed,8537
+14141,16822,6,Mixed Beans Rice,31/01/20,00:17:42,Completed,190
+12319,80918,92,Veg Traditional Combo,06/10/17,20:25:23,Completed,667
+16682,17934,86,Shrikhand Elichi,06/10/17,06:01:29,Completed,88
+13713,31777,35,Choco Malt Pie (Per Pc),06/06/19,14:25:34,Completed,24528
+17619,80185,37,Paneer grilled sandwich,08/07/19,15:05:40,Completed,2926
+18015,31777,9,Swiss Cake Ice Cream 240ml,21/03/18,18:26:27,Completed,514
+18573,34452,63,Tom Yam Soup,05/08/19,19:10:42,Completed,8537
+11393,30713,63,Cheese Topi Masala Dosa,16/11/18,20:10:15,Completed,5537
+10345,16639,28,Garlic Yoghurt White Sauce,30/07/18,13:48:09,Completed,1148
+18332,73692,84,Malai Palak Kofta (Half),16/11/17,01:39:09,Completed,60
+18746,20425,79,Garlic Yoghurt White Sauce,29/08/18,03:43:23,Completed,806
+19910,15603,51,Chocolate And Nuts Banana Cake (500 gms),09/07/19,00:12:08,Completed,796
+12336,53930,88,Casatta Cake Cake [900 Gm],12/02/20,18:25:20,Completed,10991
+19944,66599,62,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),08/07/19,19:17:29,Completed,940
+19200,82200,97,8' Onion Capsicum corn,05/08/19,13:48:46,Completed,509
+16007,98071,9,Tandoori Chaap (8 Pcs),20/02/19,15:05:40,Completed,139
+10069,19448,75,Tender  Ice Cream,12/04/18,20:06:09,Completed,514
+13173,65084,66,Special Chicken Crunch Burger,01/02/19,13:48:09,Completed,1509
+13199,34452,63,Medium Peri Per Pizza,27/12/18,13:32:27,Completed,10991
+13075,28534,99,Swiss Cake Ice Cream 240ml,08/06/20,02:10:05,Completed,65
+18132,576,7,Ghee Idly 3pcs,17/10/17,21:13:49,Completed,10991
+10542,64884,86,Veg Khada Masala 400gm.,25/06/18,04:42:44,Completed,83810
+11916,66599,79,Oil Mayonnaise,04/11/19,23:13:33,Completed,306
+11245,576,13,Ob Fresh Cheesy Loaf,06/02/20,09:47:27,Completed,514
+15083,96853,47,Jamaican Jerk Chicken Steak,12/02/20,06:01:29,Not Completed,472
+17460,51686,91,Coco With Chocolate Ice Cream,13/03/20,03:41:24,Completed,384
+19708,34452,37,Mutton Masala [500 Gram],09/07/19,13:38:35,Completed,120
+18180,2496,89,Lychee (500 gms),23/03/20,11:39:35,Completed,630
+10031,60768,34,Prince Sp Boil Bhaji Pav,16/01/19,18:30:17,Completed,69
+13698,49183,1,Lychee (500 gms),16/11/17,06:28:09,Completed,69
+14520,35719,42,Chicken Leg (2 pcs),27/12/19,19:17:29,Completed,875
+17563,35796,59,Single Anda Masala Half Fry In Olive Oil ( 2 Brown Breads ),19/03/18,13:32:27,Completed,83
+12726,576,3,Bhatti Ka Murg (350 Gm),20/09/19,19:31:53,Completed,3472
+12985,80185,72,Black Forest Cake,20/10/17,22:59:05,Completed,3472
+14597,1762,88,Fatafat Classic Pizza,09/05/19,01:39:09,Not Completed,218
+17116,1762,3,Tom Yam Soup,20/04/18,14:26:31,Completed,97
+17260,57235,77,Fatafat Classic Pizza,10/07/19,21:19:57,Completed,1870
+18887,19448,28,Veg Party Box,08/06/20,12:49:35,Not Completed,4407
+17872,70552,72,Chicken DSP,30/04/20,15:42:36,Completed,10755
+19233,17934,35,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),03/12/19,02:57:27,Completed,1486
+15488,82200,52,Sweet corn Handvo,04/05/20,07:24:06,Completed,2648
+15318,96853,59,Kashmiri Gulkand,04/05/20,14:47:02,Completed,3472
+15802,16822,99,Chocolate And Nuts Banana Cake (500 gms),05/06/19,18:30:17,Completed,292
+12862,65084,57,Chicken Chili Garlic Oyester Style,09/05/19,14:09:53,Completed,134
+12388,19865,57,Fatafat Classic Pizza,27/02/18,15:36:19,Completed,190
+12837,35796,28,Special Masala Kachori With Dahi & Cheese,16/11/18,16:46:43,Completed,824
+16950,75499,59,Kashmiri Gulkand,12/07/18,07:42:31,Completed,46
+16003,51686,48,Kadhai Chicken Rajma Ricecombo Meal,01/03/19,05:46:04,Completed,6370
+16482,75499,77,Single Anda Masala Half Fry In Olive Oil ( 2 Brown Breads ),18/09/19,03:02:46,Completed,69
+12390,82200,88,Chicken Seekh Shwarama,04/05/20,19:17:29,Completed,93
+11975,30713,47,Veg Traditional Combo,12/07/18,14:47:02,Completed,514
+16150,576,65,Jamaican Jerk Chicken Steak,13/09/18,21:13:49,Completed,139
+10108,31777,59,Doctor Juice Protein Juice,28/09/18,19:17:29,Completed,218
+11428,20425,44,Coco With Chocolate Ice Cream,27/12/19,20:25:23,Completed,338
+15526,66599,27,Chicken Curry +  Tawa Roti (5pc) + Salad,10/07/19,07:42:31,Completed,222
+10917,12257,33,Green Chilli Corn Pizza Small,13/09/18,16:12:15,Completed,88
+11418,15603,79,Oil Mayonnaise,28/03/19,04:32:44,Completed,796
+16472,19865,81,Plain kachori with Curry,07/03/18,02:10:05,Completed,894
+18791,82200,3,Chilli Chinese Dosa,05/12/17,10:45:56,Not Completed,88
+16971,31777,44,Bheja  (Soup),21/03/18,07:42:31,Completed,1486
+19964,579,34,Kashmiri Gulkand,19/06/18,11:39:35,Completed,190
+16345,84005,62,Single Anda Masala Half Fry In Olive Oil ( 2 Brown Breads ),05/12/17,00:55:43,Completed,667
+15976,4728,41,Bhuna 3Pal Anda Cheese Roll,21/06/18,03:43:23,Completed,69
+10721,35719,5,Paneer grilled sandwich,13/09/18,02:57:27,Completed,88
+13990,15664,45,7' Onion Tomato Capsicum Pizza,20/02/19,12:20:25,Completed,1329
+12687,57235,84,Nuttela Shake,06/12/17,02:57:27,Completed,1148
+10907,70552,88,Green Chilli Corn Pizza Small,19/06/18,20:55:53,Completed,24528
+18657,33609,24,Peanut Chaat with Cheese,25/06/18,21:24:12,Not Completed,70315
+12133,579,3,Peanut Chaat with Cheese,01/03/19,03:59:57,Completed,403
+10545,35796,1,Choco Malt Pie (Per Pc),05/12/18,05:39:18,Completed,222
+18140,60768,51,Shrikhand Elichi,04/11/19,08:13:12,Completed,1213
+15387,51686,32,Chatpata Corn,06/08/19,15:42:53,Completed,1171
+19519,35719,51,Mushroom   Noodles,17/10/17,08:54:53,Completed,46
+11623,98071,96,Black Current with Ice cream,16/01/19,13:48:09,Not Completed,306
+17354,80918,90,Lychee (500 gms),27/12/18,18:30:17,Completed,6370
+12620,14532,48,Oil Mayonnaise,08/07/19,03:43:23,Completed,278
+15783,16639,63,Chocolate And Nuts Banana Cake (500 gms),03/12/18,05:59:05,Completed,306
+11113,30960,41,Special Coconut (200 gms),21/10/19,23:31:04,Completed,384
+11913,1762,37,Bhatti Ka Murg (350 Gm),03/12/18,16:46:43,Completed,120
+19535,80185,91,Special Coconut (200 gms),30/04/20,09:47:27,Completed,69
+19246,30713,37,Buttermilk Cake [1 Kg],20/10/17,19:31:56,Completed,514
+17792,12257,27,Roasted Corn Chowder,23/04/18,05:19:50,Completed,667
+18540,61770,96,Paneer in Hot Garlic Sauce Dry,16/11/18,16:33:58,Completed,60
+16734,76435,51,Kadhai Chicken Rajma Ricecombo Meal,11/07/18,22:59:10,Completed,940
+13909,64884,63,Chatpata Corn,16/11/17,18:30:17,Completed,2926
+10130,87071,37,Kashmiri Gulkand,17/06/20,23:11:00,Completed,97
+17437,54375,8,7' Onion Tomato Capsicum Pizza,06/12/17,19:17:29,Not Completed,157
+18133,4294,81,Sweet corn Handvo,12/07/18,08:09:35,Completed,1523
+15573,19448,42,Chilli Chinese Dosa,20/04/18,18:30:17,Completed,1523
+19534,15603,63,Bhuna 3Pal Anda Cheese Roll,05/06/19,01:36:41,Completed,69
+12881,54375,8,Kashmiri Gulkand,21/03/18,06:01:29,Completed,1194
+17120,19448,8,Garlic Yoghurt White Sauce,20/04/18,19:17:29,Completed,472
+18338,85199,59,Kumb Taka- Tak,08/01/19,00:55:43,Completed,431
+15471,33609,88,Butter Gravy Pulav,05/12/17,09:47:27,Completed,2926
+19696,576,51,Plain kachori with Curry,12/04/18,01:01:49,Completed,366
+10210,576,44,Hummus (Large),20/04/18,13:48:09,Completed,2648
+15696,35719,41,Butter Gravy Pulav,02/05/18,18:26:52,Completed,65
+14284,76700,8,Oil Mayonnaise,17/09/19,02:39:00,Completed,431
+13001,66599,62,8' Onion Capsicum corn,28/08/18,04:41:36,Completed,157
+18691,32261,99,Dehradun Rusk (280gms),04/05/20,08:37:04,Completed,824
+14972,576,45,Veg Khada Masala 400gm.,21/06/18,18:53:47,Completed,5537
+11630,64291,1,Butter Gravy Pulav,12/04/18,00:17:42,Completed,306
+18976,30960,63,Nutelle,09/07/19,15:05:40,Completed,940
+10257,576,41,Paneer grilled sandwich,24/01/19,03:02:46,Completed,79
+16501,29131,45,Bhuna 3Pal Anda Cheese Roll,02/05/18,00:12:08,Completed,356
+14339,19448,8,Kashmiri Gulkand,05/12/17,14:26:31,Completed,514
+17654,61770,24,Fresh Paneer-250Gms,13/03/20,05:19:50,Completed,10991
+15843,64884,75,Doctor Juice Protein Juice,02/02/18,15:44:21,Completed,2648
+17830,64884,48,Veg Khada Masala 400gm.,30/04/20,03:02:46,Not Completed,8306
+14519,14532,15,Veg Party Box,13/09/18,08:13:12,Completed,509
+14530,71223,97,Spl Biryani (Chicken Tikka),05/06/19,16:46:43,Completed,1509
+10264,16639,1,Dehradun Rusk (280gms),12/09/19,05:59:05,Completed,134
+14447,96853,43,Ghee Idly 3pcs,20/07/18,05:59:05,Completed,218
+17808,16639,84,Korean Bibimbap Prawns,23/04/18,08:37:04,Completed,146222
+10232,76700,79,Doctor Juice Protein Juice,12/04/18,04:41:36,Completed,241
+15114,16822,29,Choco Malt Pie (Per Pc),02/05/18,07:42:31,Completed,380
+11212,53930,30,Ob Fresh Cheesy Loaf,19/03/20,10:03:28,Completed,755
+16984,4294,12,Veg Traditional Combo,20/04/18,01:50:55,Completed,8306
+11490,70552,28,Cheese Jain Bhel,13/09/18,13:48:46,Completed,1870
+15124,61770,97,Rich Combo,13/08/18,04:41:36,Completed,106
+13898,87071,13,Mixed Beans Rice,08/03/19,01:01:49,Completed,472
+19124,4728,27,Vegetable Khichdi [500ml],12/04/18,03:50:07,Not Completed,338
+16829,20425,35,7' Onion Tomato Capsicum Pizza,05/12/17,13:38:35,Completed,755
+14231,30713,35,Chicken Tikka Masala (4 Pieces),28/09/18,01:01:49,Completed,338
+10798,12257,4,"Fry Kulcha , Kadhai Paneer.",08/03/19,07:35:50,Completed,3472
+17518,61770,63,Veg Fingers 5 Pcs,16/04/18,20:10:15,Completed,1722
+11005,576,43,Caramel Crisp,20/07/18,18:31:43,Completed,1148
+12426,28534,66,Rich Combo,08/01/19,20:06:09,Completed,8537
+17170,19865,96,Arrabiata Pasta Chicken,13/09/18,15:05:40,Completed,1171
+16854,51686,9,Swiss Cake Ice Cream 240ml,12/07/18,12:39:03,Completed,79
+19406,84611,37,Chicken Burger Burger,30/04/20,07:35:50,Completed,11731
+12182,29131,27,Small Cheese Burst Pappy Paneer Pizza,19/02/18,18:53:47,Completed,70315
+17959,76700,99,Nuttela Shake,04/05/20,20:25:23,Completed,190
+13491,66599,11,Casatta Cake Cake [900 Gm],20/09/19,04:41:36,Completed,106
+17382,70552,7,Ob Fresh Cheesy Loaf,21/10/19,08:37:04,Completed,824
+12076,80185,8,7' Onion Tomato Capsicum Pizza,12/09/18,15:42:53,Completed,139
+18056,66599,66,Shrikhand Elichi,19/02/18,05:25:08,Completed,755
+19767,71223,96,Cheese Topi Masala Dosa,27/12/19,14:26:31,Completed,15606
+10834,34452,70,Mava Masti,13/09/18,15:00:21,Completed,278
+18094,2496,42,Bhuna 3Pal Anda Cheese Roll,28/08/18,19:10:42,Completed,2111
+18878,32261,8,Single Anda Masala Half Fry In Olive Oil ( 2 Brown Breads ),06/10/17,13:32:27,Completed,88
+15630,87071,97,Hummus (Large),05/08/19,15:42:53,Completed,241
+17366,53930,29,Special Masala Kachori With Dahi & Cheese,16/11/18,04:41:36,Completed,1870
+14631,19865,5,Ghee Idly 3pcs,10/04/19,18:30:17,Completed,10755
+13293,17934,1,Choco Malt Pie (Per Pc),23/07/18,06:24:09,Completed,10755
+16412,14532,35,Tom Yam Soup,28/09/18,18:25:20,Completed,134
+13432,70552,89,Adiga's Special Veg Uttapam,30/07/18,06:01:29,Not Completed,116
+12878,33609,35,Mixed Beans Rice,23/07/18,16:12:15,Completed,667
+16197,51686,65,Nuttela Shake,07/12/17,12:49:35,Completed,616
+17410,84005,81,Veg Khada Masala 400gm.,04/01/19,18:25:20,Completed,19208
+13201,61770,70,Bhatti Ka Murg (350 Gm),16/11/17,16:46:43,Completed,69
+12937,19448,15,Mutton Masala [500 Gram],17/09/19,08:37:04,Completed,8306
+13501,84005,59,Special Coconut (200 gms),02/05/19,10:45:56,Completed,824
+12148,98071,63,Black Forest Cake,06/10/17,20:25:23,Completed,93
+12476,19448,70,Butter Chicken (Includes 2 Roomali) (1/2 kg),04/11/19,08:54:53,Completed,190
+19514,35719,1,Chicken Curry +  Tawa Roti (5pc) + Salad,27/12/19,18:26:52,Completed,1148
+19518,20425,89,Kumb Taka- Tak,30/04/20,18:26:27,Completed,1213
+18325,17934,29,Quinoa Barley Pilaf *,17/09/19,03:59:57,Completed,875
+15034,30960,35,Supreme cheese garlic Bread,12/02/20,13:32:27,Completed,431
+18514,64884,62,Korean Bibimbap Prawns,19/06/18,19:17:29,Completed,111
+16485,49183,77,Nutelle,23/04/18,01:36:41,Completed,2866
+11797,84005,79,"Fry Kulcha , Kadhai Paneer.",27/12/19,14:09:53,Completed,134
+18185,53930,29,Mava Masti,06/02/20,22:59:10,Completed,218
+11288,31777,62,Chicken DSP,08/01/19,21:24:12,Completed,338
+12965,57235,3,Supreme cheese garlic Bread,21/10/19,15:42:53,Completed,4407
+14466,85199,3,Hummus (Large),27/12/19,18:53:47,Not Completed,79
+19540,87071,29,Kadai Paneer  (half),10/04/19,23:11:00,Completed,1148
+12637,2496,8,Fresh Paneer-250Gms,02/05/19,15:29:31,Completed,796
+17878,84611,27,Ghee Idly 3pcs,16/11/17,21:24:12,Completed,356
+10243,16639,62,Nutelle,28/03/19,15:29:26,Completed,1509
+14655,35796,99,Bbq Chicken Pizza Medium,13/03/20,20:10:15,Completed,1194
+12391,576,15,Onion Doasa,12/09/18,14:43:26,Completed,1329
+16034,65084,62,Fried Chicken Mix Wings Large Bucket [12 Pcs],13/03/20,23:31:04,Completed,222
+14970,15603,12,Cheese Jain Bhel,17/10/17,03:43:23,Completed,102
+11931,64291,75,Super Man,17/07/19,01:27:17,Completed,65
+17513,80185,44,Paneer grilled sandwich,04/10/19,08:37:04,Completed,218
+19229,64884,89,Dehradun Rusk (280gms),20/04/18,23:37:47,Completed,755
+14860,61770,33,Spl Biryani (Chicken Tikka),05/12/17,10:03:28,Completed,380
+19989,576,6,Paneer grilled sandwich,05/06/19,13:48:46,Completed,102
+17867,76700,92,Special Masala Kachori With Dahi & Cheese,02/05/19,23:37:47,Not Completed,421
+18962,30960,35,Kashmiri Gulkand,28/09/18,07:12:25,Completed,3181
+11433,29131,77,Special Coconut (200 gms),01/02/19,20:10:15,Completed,940
+19887,76700,1,Bheja  (Soup),19/03/18,13:32:27,Completed,7222
+16654,32261,66,Cheese Jain Bhel,28/10/19,03:02:46,Completed,2833
+17283,69103,28,Chocolate Mousse Cake (1/2 Kg),04/10/19,20:04:27,Completed,1148
+16631,33609,35,Tummy Full ( Tandoori Sandwich + Veg Grilled + Mojito + Masala Drink ),25/05/20,05:39:18,Completed,2648
+13868,87071,89,Adiga's Special Veg Uttapam,12/07/18,19:31:56,Completed,1870
+10629,89578,84,Chatpata Corn,05/08/19,11:39:35,Completed,338
+18335,53930,94,Adiga's Special Veg Uttapam,02/02/18,20:45:40,Completed,356
+16253,19865,7,Sweet corn Handvo,12/07/18,08:09:35,Completed,3472
+10409,96853,81,Chicken Burger Burger,13/12/18,14:26:31,Completed,366
+12755,15664,63,Medium Peri Per Pizza,17/09/19,19:17:29,Completed,241
+12384,75499,84,Chicken Burger Burger,28/10/19,02:43:43,Completed,88
+18195,49183,7,Roasted Corn Chowder,27/07/18,03:59:57,Completed,380
+16573,76700,32,Hummus (Large),27/07/18,21:32:55,Completed,146222
+17147,33609,4,Roasted Corn Chowder,18/09/19,13:48:09,Not Completed,431
+12013,34452,48,Manchurian Cheese Sandwich,28/09/18,21:24:12,Completed,83
+14844,20425,81,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),22/02/18,23:37:47,Completed,514
+19121,30713,92,Ghee Idly 3pcs,20/07/18,20:45:40,Completed,1870
+19341,579,43,Disco Papad Lal Mirchi (250G),23/07/18,23:11:00,Completed,102
+18915,1762,77,Tandoori Chaap (8 Pcs),08/07/19,18:26:52,Completed,79
+10434,20425,28,"Fry Kulcha , Kadhai Paneer.",20/10/17,21:13:49,Completed,241
+13841,15664,62,Plain kachori with Curry,20/07/18,04:42:44,Completed,241
+12566,61770,33,Vegetable Khichdi [500ml],16/11/18,04:32:44,Completed,824
+12604,80185,28,Malai Palak Kofta (Half),08/10/18,19:27:11,Completed,1069
+11708,80185,91,Bbq Chicken Pizza Medium,16/04/18,06:28:09,Completed,3444
+15690,96853,23,Peanut Chaat with Cheese,20/02/19,18:26:52,Completed,1870
+13372,19865,9,Jamaican Jerk Chicken Steak,01/02/19,03:43:23,Completed,5537
+14262,65084,12,Caramel Crisp,28/03/19,20:55:53,Completed,384
+12135,31777,52,Mutton Masala [500 Gram],10/04/19,15:29:31,Completed,875
+19510,84005,7,Coco With Chocolate Ice Cream,27/12/19,01:39:09,Completed,69
+17628,4728,84,Supreme cheese garlic Bread,12/07/18,02:39:00,Completed,514
+13318,98071,86,Kadai Paneer  (half),27/02/18,04:32:44,Completed,51
+18076,1762,28,Mixed Beans Rice,30/04/20,11:39:35,Completed,70315
+17823,17934,71,Malai Palak Kofta (Half),18/09/19,20:25:23,Completed,88
+18561,28534,73,Traffik Jam,11/07/18,02:57:27,Completed,1722
+11424,61770,34,Medium Peri Per Pizza,23/04/19,21:13:49,Completed,69
+14784,64884,59,Special Coconut (200 gms),04/11/19,02:43:43,Completed,616
+18359,49183,9,Khoya Barfi,27/07/18,15:29:31,Completed,88
+18229,65084,72,Ghee Idly 3pcs,28/03/19,02:10:05,Completed,1523
+17424,49183,27,Kadhai Chicken Rajma Ricecombo Meal,28/03/19,08:54:53,Completed,1509
+19409,19448,97,Roasted Corn Chowder,06/08/19,05:59:05,Completed,1486
+15293,32261,27,Special Masala Kachori With Dahi & Cheese,27/12/19,03:08:58,Completed,7222
+15299,16639,91,Black Current with Ice cream,03/12/19,08:54:57,Completed,70315
+16443,19865,4,Chicken Seekh Shwarama,17/09/19,20:45:40,Completed,88
+13268,69103,15,Super Man,19/03/18,03:59:57,Completed,2111
+14084,576,28,Black Forest Cake,13/03/20,00:55:43,Completed,338
+14805,65084,88,Sprout Chat,21/06/18,01:01:49,Completed,514
+17174,20425,8,Black Current with Ice cream,08/06/20,03:50:07,Completed,2866
+16490,71223,97,Mushroom Schezwan Panner Dosa,29/08/18,01:27:17,Completed,1509
+11462,16639,90,Swiss Cake Ice Cream 240ml,29/12/17,22:15:35,Completed,384
+12992,35719,37,Rich Combo,25/06/18,15:42:53,Completed,431
+10893,51686,6,Bhatti Ka Murg (350 Gm),19/03/18,07:12:25,Completed,421
+16014,16131,79,Green Chilli Corn Pizza Small,08/01/19,07:12:25,Completed,894
+12614,20425,5,Special Coconut (200 gms),20/10/17,12:39:03,Completed,2926
+10139,76435,90,Chicken Burger Burger,02/05/19,19:31:56,Completed,83
+14364,61770,72,Sprout Chat,10/07/19,22:59:10,Not Completed,190
+14540,15603,27,Chicken Tikka Masala (4 Pieces),21/03/18,20:55:53,Completed,5537
+18685,61770,86,Chicken Tikka Masala (4 Pieces),16/11/18,06:24:09,Completed,616
+12378,86412,71,Cheese Topi Masala Dosa,11/07/18,19:17:29,Completed,509
+12569,20425,86,Single Anda Masala Half Fry In Olive Oil ( 2 Brown Breads ),25/05/20,19:27:11,Completed,495
+16689,16131,37,Special Chicken Crunch Burger,27/12/18,03:43:23,Completed,146222
+17001,51686,88,Tummy Full ( Tandoori Sandwich + Veg Grilled + Mojito + Masala Drink ),03/12/19,10:03:28,Completed,134
+17856,71223,27,Bhatti Ka Murg (350 Gm),19/03/20,16:33:58,Completed,1171
+18500,85199,84,Disco Papad Lal Mirchi (250G),12/04/18,14:26:31,Completed,630
+10237,53930,63,Tandoori Chaap (8 Pcs),06/06/19,01:50:55,Completed,2866
+11101,34081,91,Buttermilk Cake [1 Kg],30/07/18,14:25:34,Completed,380
+15041,87071,57,Dehradun Rusk (280gms),28/03/19,08:54:57,Completed,5537
+19558,61770,29,Oil Mayonnaise,27/02/18,20:55:53,Completed,306
+16405,17934,96,Vegetable Khichdi [500ml],13/08/18,22:59:05,Completed,403
+13636,82200,91,Shrikhand Elichi,02/05/19,00:17:42,Completed,894
+12387,80185,32,Bbq Chicken Pizza Medium,27/12/18,19:17:29,Completed,421
+13012,53930,88,Onion Doasa,12/09/19,12:20:25,Completed,380
+15535,11406,72,Caramel Crisp,05/11/19,14:09:53,Completed,278
+14816,66599,24,Malai Palak Kofta (Half),18/09/19,08:54:53,Completed,8306
+11754,82200,81,Malai Palak Kofta (Half),07/12/17,12:20:25,Completed,1245
+12460,16639,37,Kadai Paneer  (half),20/09/19,18:26:27,Completed,83810
+19153,57235,15,Cheese Topi Masala Dosa,17/09/19,10:03:28,Completed,60
+18771,49183,62,Paneer in Hot Garlic Sauce Dry,06/03/20,03:43:23,Completed,106
+10496,15664,62,Swiss Cake Ice Cream 240ml,03/12/19,07:12:25,Completed,472
+16162,51686,37,Lychee (500 gms),05/06/19,00:55:43,Completed,116
+13591,53930,97,Peanut Chaat with Cheese,02/05/19,21:32:55,Completed,5537
+10794,71223,78,Veg Traditional Combo,05/11/19,03:02:46,Completed,5537
+18376,64291,62,Tom Yam Soup,27/12/18,14:47:02,Completed,1069
+17096,86412,62,Tandoori Chaap (8 Pcs),24/01/19,04:32:44,Completed,472
+18492,19865,72,Nutelle,30/11/18,05:39:18,Completed,2866
+18045,60768,15,Chocolate And Nuts Banana Cake (500 gms),19/06/18,08:37:04,Completed,292
+15900,80185,33,Chocolate And Nuts Banana Cake (500 gms),03/12/19,01:50:55,Completed,514
+13283,2496,89,Black Current with Ice cream,16/11/18,03:08:58,Completed,69
+13111,4294,13,Coco With Chocolate Ice Cream,27/11/19,01:39:09,Not Completed,1213
+14594,576,96,7' Onion Tomato Capsicum Pizza,16/11/17,20:25:23,Completed,139
+19319,80185,9,8' Onion Capsicum corn,19/06/18,01:01:49,Completed,3472
+17681,80918,44,7' Onion Tomato Capsicum Pizza,21/06/18,14:26:31,Completed,139
+13567,61770,70,Oil Mayonnaise,30/05/18,03:41:24,Completed,69
+13631,76700,96,8' Onion Capsicum corn,06/08/19,15:29:26,Completed,1329
+14285,19865,63,Mutton Masala [500 Gram],08/10/18,02:10:05,Not Completed,1509
+11649,66599,79,Tummy Full ( Tandoori Sandwich + Veg Grilled + Mojito + Masala Drink ),23/04/18,00:39:28,Completed,431
+11871,64884,9,Chicken DSP,01/03/19,18:53:47,Completed,514
+10165,80185,9,Chocolate Mousse Cake (1/2 Kg),21/06/18,01:27:17,Completed,7222
+17017,19448,73,Traffik Jam,18/09/19,07:42:31,Completed,146222
+16127,76700,30,Black Current with Ice cream,12/04/18,06:24:09,Completed,667
+15964,98071,48,Shrikhand Elichi,12/09/18,20:10:15,Completed,1509
+18497,76700,24,Special Masala Kachori With Dahi & Cheese,16/11/17,23:13:33,Completed,19208
+16708,19448,99,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),06/06/19,03:41:24,Completed,88
+17947,19865,63,Tender  Ice Cream,05/12/18,00:12:08,Completed,102
+18572,31777,35,Lychee (500 gms),04/10/19,12:20:25,Completed,69
+19982,70552,33,Swiss Cake Ice Cream 240ml,02/05/18,20:25:23,Completed,630
+18428,64884,44,Tummy Full ( Tandoori Sandwich + Veg Grilled + Mojito + Masala Drink ),11/07/18,15:44:21,Not Completed,190
+15996,61770,96,Chocolate Mousse Cake (1/2 Kg),20/09/19,14:25:34,Completed,8537
+10924,70552,41,Green Chilli Corn Pizza Small,08/01/19,08:54:57,Completed,338
+12768,576,24,Tummy Full ( Tandoori Sandwich + Veg Grilled + Mojito + Masala Drink ),05/12/17,07:24:06,Completed,380
+17624,82200,90,Special Coconut (200 gms),10/07/19,18:59:45,Completed,46
+12265,63588,99,Bhatti Ka Murg (350 Gm),20/09/19,05:59:05,Completed,796
+11405,17934,33,Maguro Nigiri Sushi (3 Pcs) (Tuna),06/12/17,05:46:04,Completed,106
+10023,31777,91,Khoya Barfi,05/12/17,01:50:55,Completed,69
+10486,20425,59,Nuttela Shake,06/06/19,18:59:45,Completed,2102
+19133,57235,11,Ghee Idly 3pcs,12/09/18,08:37:04,Completed,514
+17027,15603,9,Katori Chaat,20/09/19,04:41:36,Completed,116
+11421,82200,51,Paneer grilled sandwich,20/09/19,15:29:31,Completed,366
+18442,1762,47,Peanut Chaat with Cheese,23/07/18,01:50:55,Completed,83
+11139,19448,35,Caramel Crisp,19/03/18,11:39:35,Not Completed,111
+11354,35719,41,Chicken Curry +  Tawa Roti (5pc) + Salad,05/08/19,23:31:04,Not Completed,139
+13050,84005,9,Chatpata Corn,02/02/18,14:09:53,Completed,2102
+10806,53930,70,Veg Panner 65,27/07/18,04:32:44,Completed,755
+17987,35796,13,Crispy Chilli Veg Mix,06/08/19,07:12:25,Completed,2866
+16688,34452,96,Roasted Corn Chowder,20/02/19,15:05:40,Completed,79
+13461,16131,42,Cheese Topi Masala Dosa,02/05/19,03:50:07,Completed,5537
+10909,576,97,Adiga's Special Veg Uttapam,30/05/18,20:04:27,Completed,88
+16515,65084,86,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),20/10/17,16:12:15,Completed,15606
+12597,57235,6,Special Masala Kachori With Dahi & Cheese,30/04/20,21:13:49,Completed,616
+17042,34452,42,Plain kachori with Curry,02/02/18,23:11:00,Completed,97
+18549,30713,8,Dehradun Rusk (280gms),03/12/18,19:31:56,Completed,222
+10845,66599,27,Chicken Seekh Shwarama,02/05/18,00:55:43,Completed,394
+18165,80185,79,Oil Mayonnaise,05/12/17,19:17:29,Completed,65
+14682,96853,77,Korean Bibimbap Prawns,13/08/18,02:39:00,Completed,630
+19157,19865,34,Butter Gravy Pulav,28/03/19,20:45:40,Completed,11731
+10315,96853,66,Chicken Leg (2 pcs),05/12/17,21:41:09,Completed,19208
+12541,70552,91,Coco With Chocolate Ice Cream,12/07/18,23:13:33,Completed,116
+17024,16639,23,Fatafat Classic Pizza,23/04/19,03:59:57,Completed,1194
+17771,65084,63,Shrikhand Elichi,19/02/18,15:29:26,Completed,380
+13967,11406,8,Mixed Beans Rice,19/06/18,03:43:23,Completed,278
+16707,31777,30,Single Anda Masala Half Fry In Olive Oil ( 2 Brown Breads ),21/06/18,18:25:20,Completed,306
+13819,19448,94,Fatafat Classic Pizza,20/07/18,21:13:49,Not Completed,472
+11961,576,41,Choco Malt Pie (Per Pc),12/09/19,15:36:19,Completed,2648
+17502,84611,48,Chicken Tikka Masala (4 Pieces),06/02/20,06:24:09,Completed,93
+14728,61770,4,Chicken Chili Garlic Oyester Style,23/03/20,03:50:07,Completed,5537
+14288,28534,62,Nuttela Shake,22/02/18,18:26:52,Completed,190
+10742,61770,96,Veg Fingers 5 Pcs,06/02/20,22:15:35,Completed,1245
+11243,80185,72,Bhuna 3Pal Anda Cheese Roll,02/05/19,08:54:53,Completed,616
+17795,57235,27,Cheese Topi Masala Dosa,19/03/20,20:45:40,Completed,111
+12233,19865,9,Tom Yam Soup,16/01/19,08:13:12,Completed,366
+17347,75499,30,Maguro Nigiri Sushi (3 Pcs) (Tuna),19/06/18,18:26:27,Completed,875
+19654,4728,41,Bheja  (Soup),06/10/17,05:46:04,Completed,222
+12297,51686,37,Spl Biryani (Chicken Tikka),28/08/18,00:19:10,Completed,69
+15494,12257,11,Veg Panner 65,12/02/20,02:39:00,Completed,514
+19080,33609,77,Medium Peri Per Pizza,28/10/19,03:59:57,Completed,8597
+19440,16131,5,Bhatti Ka Murg (350 Gm),13/12/18,16:46:43,Completed,5537
+12752,17934,34,Black Current with Ice cream,20/07/18,05:59:05,Completed,2102
+11350,16639,9,Veg Traditional Combo,08/10/18,00:55:43,Completed,667
+11506,57235,97,Roasted Corn Chowder,05/12/18,19:27:11,Completed,1148
+18499,84611,13,Butter Gravy Pulav,27/11/19,12:39:03,Completed,2833
+18024,53930,88,Mixed Beans Rice,08/07/19,05:39:18,Completed,46
+12462,85199,28,Jamaican Jerk Chicken Steak,10/04/19,16:46:43,Completed,1245
+13646,34452,62,Oil Mayonnaise,07/12/17,23:31:04,Completed,472
+10981,80185,41,Super Man,13/12/18,23:31:04,Completed,1069
+14577,36734,9,Chicken Curry +  Tawa Roti (5pc) + Salad,05/12/17,03:50:07,Completed,1171
+19487,96853,3,Medium Peri Per Pizza,06/06/19,19:10:42,Completed,292
+10945,80185,44,Tummy Full ( Tandoori Sandwich + Veg Grilled + Mojito + Masala Drink ),20/02/19,11:39:35,Completed,1171
+14711,35719,90,Veg Traditional Combo,27/07/18,19:17:29,Completed,667
+11936,87071,3,7' Onion Tomato Capsicum Pizza,06/02/20,18:26:52,Completed,70315
+11314,85199,72,Tummy Full ( Tandoori Sandwich + Veg Grilled + Mojito + Masala Drink ),27/12/19,19:31:53,Completed,338
+11985,11406,57,Disco Papad Lal Mirchi (250G),06/08/19,02:43:43,Completed,380
+15451,87071,48,Cheese Jain Bhel,28/10/19,18:59:45,Completed,12486
+17009,2496,73,Dehradun Rusk (280gms),29/12/17,14:43:26,Completed,1870
+16942,86412,3,Bhatti Ka Murg (350 Gm),17/07/19,13:48:46,Completed,222
+16581,87071,14,"Fry Kulcha , Kadhai Paneer.",27/12/19,10:03:28,Completed,514
+19990,4728,8,Spl Biryani (Chicken Tikka),27/07/18,01:36:41,Completed,65
+15189,51686,75,Fresh Paneer-250Gms,23/04/18,18:26:52,Completed,51
+15641,89578,44,Kadhai Chicken Rajma Ricecombo Meal,17/07/19,21:24:12,Completed,120
+14788,49183,90,Tom Yam Soup,23/04/18,06:01:29,Completed,306
+15716,57235,59,Veg Panner 65,27/02/18,16:33:58,Completed,134
+15951,4294,73,Butter Gravy Pulav,06/12/17,13:38:35,Completed,2102
+19257,19865,9,"Fry Kulcha , Kadhai Paneer.",08/03/19,10:45:56,Completed,8306
+18620,2496,59,Manchurian Cheese Sandwich,07/12/17,13:48:46,Completed,1213
+10075,1762,41,Katori Chaat,06/10/17,19:17:29,Completed,11731
+15444,76700,42,Chicken Chili Garlic Oyester Style,12/02/20,19:27:11,Completed,65
+10831,65084,1,Ghee Idly 3pcs,02/02/18,12:20:25,Completed,190
+16969,64884,9,Green Chilli Corn Pizza Small,05/08/19,03:08:58,Completed,139
+13926,70552,72,Mushroom   Noodles,04/01/19,19:31:56,Completed,15606
+15427,80185,89,Chicken Chili Garlic Oyester Style,31/01/20,20:25:23,Completed,65
+12405,61770,9,Shrikhand Elichi,27/12/19,13:58:20,Completed,218
+15622,30960,33,Tandoori Chaap (8 Pcs),09/05/19,06:01:29,Completed,8597
+15991,76700,37,Bbq Chicken Pizza Medium,27/12/19,14:25:34,Completed,509
+14896,84005,28,Khari Platter,08/03/19,15:36:19,Completed,1194
+17285,16639,91,Tender  Ice Cream,13/09/18,01:50:55,Completed,111
+12549,20425,12,Black Forest Cake,08/03/19,20:55:53,Completed,4407
+15003,61770,57,Bhatti Ka Murg (350 Gm),13/08/18,20:10:15,Completed,102
+15354,19448,43,Nutelle,05/12/18,18:25:20,Completed,3181
+16907,576,37,Peanut Chaat with Cheese,21/10/19,03:08:58,Completed,88
+18649,51686,90,Mixed Beans Rice,12/02/20,01:01:49,Completed,88
+16745,11406,62,Butter Chicken (Includes 2 Roomali) (1/2 kg),12/04/18,15:42:53,Completed,514
+17012,86412,30,Chicken Seekh Shwarama,08/07/19,13:38:35,Completed,630
+13379,87071,84,Malai Palak Kofta (Half),20/07/18,10:45:56,Completed,2648
+10654,20425,84,Chatpata Corn,05/12/17,19:10:42,Completed,292
+16032,576,72,Buttermilk Cake [1 Kg],11/07/18,19:10:42,Not Completed,366
+11655,15664,35,Bhuna 3Pal Anda Cheese Roll,06/06/19,07:42:31,Completed,616
+10935,35719,79,Oil Mayonnaise,01/03/19,07:24:06,Completed,102
+18696,35719,45,Arrabiata Pasta Chicken,23/04/19,02:43:43,Completed,384
+16354,16131,62,Chicken DSP,27/12/19,15:42:36,Completed,24528
+12312,17934,13,Adiga's Special Veg Uttapam,12/04/18,19:17:29,Completed,65
+19607,576,89,Plain kachori with Curry,03/12/18,19:31:56,Completed,2648
+19912,16131,84,Fresh Paneer-250Gms,25/05/20,12:49:35,Completed,157
+16966,2496,23,Sweet corn Handvo,23/07/18,00:17:42,Completed,65
+16798,80185,97,"Fry Kulcha , Kadhai Paneer.",02/05/19,22:59:05,Completed,940
+12720,30713,24,Veg Khada Masala 400gm.,27/12/19,18:53:47,Completed,241
+13459,17934,27,Malai Palak Kofta (Half),27/11/19,16:46:43,Completed,10991
+17310,17934,57,Kadai Paneer  (half),28/09/18,20:04:27,Completed,10755
+10352,80185,79,Garlic Yoghurt White Sauce,20/09/19,08:09:35,Completed,472
+19376,54375,51,Spl Biryani (Chicken Tikka),25/05/20,13:48:46,Completed,2926
+19185,86412,35,Vegetable Khichdi [500ml],12/02/20,19:31:53,Completed,292
+18470,89578,3,Mixed Beans Rice,02/05/18,20:55:53,Completed,60
+12073,34452,37,Chicken DSP,08/07/19,06:01:29,Completed,65
+13146,20425,13,Spl Biryani (Chicken Tikka),30/05/18,05:39:18,Completed,19208
+15711,1762,90,Disco Papad Lal Mirchi (250G),29/08/18,16:33:58,Completed,116
+10032,32261,96,Adiga's Special Veg Uttapam,21/06/18,20:06:09,Completed,356
+10316,16131,77,Small Cheese Burst Pappy Paneer Pizza,29/12/17,19:31:53,Completed,134
+17374,82200,24,Veg Fingers 5 Pcs,28/08/18,18:26:52,Completed,88
+18401,32261,63,Jamaican Jerk Chicken Steak,12/07/18,08:09:35,Completed,1194
+16299,75499,92,Khoya Barfi,09/05/19,01:39:09,Completed,12486
+17560,17934,35,Khoya Barfi,29/11/17,01:50:55,Completed,46
+14119,61770,5,Cheese Jain Bhel,23/07/18,11:39:35,Completed,102
+19230,80185,30,Rich Combo,18/07/18,22:59:10,Completed,69
+11884,16639,63,8' Onion Capsicum corn,18/07/18,11:39:35,Completed,1148
+12350,61770,27,Tom Yam Soup,20/04/18,04:32:44,Completed,875
+11918,87071,97,Korean Bibimbap Prawns,13/08/18,00:12:08,Completed,10755
+14886,15664,99,Kashmiri Gulkand,19/06/18,07:42:31,Completed,97
+11858,11406,37,Bhuna 3Pal Anda Cheese Roll,02/05/18,02:57:27,Completed,5537
+12459,35796,27,Paneer in Hot Garlic Sauce Dry,04/01/19,05:39:18,Completed,1213
+19100,51686,35,Mutton Masala [500 Gram],20/09/19,23:13:33,Completed,157
+16554,61770,44,Veg Panner 65,04/11/19,01:39:09,Completed,218
+19401,12257,37,Hummus (Large),13/12/18,01:50:55,Completed,88
+10497,91913,7,Chicken Chili Garlic Oyester Style,13/12/18,18:59:45,Completed,106
+11056,53930,47,Special Coconut (200 gms),02/02/18,22:59:10,Completed,1171
+18852,30713,78,Korean Bibimbap Prawns,16/11/18,20:45:40,Completed,1213
+15845,15664,36,Manchurian Cheese Sandwich,17/07/19,12:20:25,Completed,1148
+11671,49183,77,Traffik Jam,19/02/18,15:42:36,Completed,5537
+10429,73692,29,Shrikhand Elichi,22/02/18,00:12:08,Completed,79
+12697,31777,57,Khari Platter,12/09/19,09:47:27,Completed,146222
+19335,20425,5,Chicken Seekh Shwarama,27/11/19,10:03:28,Not Completed,384
+14866,91913,62,Lychee (500 gms),16/04/18,19:10:42,Completed,134
+10211,80185,9,Katori Chaat,04/10/19,06:28:09,Not Completed,2111
+17377,76700,77,Chocolate And Nuts Banana Cake (500 gms),20/02/19,16:33:58,Completed,134
+10990,60768,33,Butter Gravy Pulav,20/04/18,20:45:40,Completed,46
+10240,63588,5,Supreme cheese garlic Bread,20/04/18,03:02:46,Completed,2102
+11071,19865,75,Roasted Corn Chowder,02/05/19,08:54:53,Completed,755
+17537,34081,8,Chicken Seekh Shwarama,28/10/19,03:50:07,Completed,1523
+10342,54375,15,"Fry Kulcha , Kadhai Paneer.",27/12/19,23:13:33,Completed,796
+19320,87071,88,Ob Fresh Cheesy Loaf,28/10/19,03:41:24,Completed,384
+12348,30713,91,Cream of Mushroom Soup,20/07/18,13:48:09,Not Completed,1148
+12169,16822,72,Jamaican Jerk Chicken Steak,05/12/17,15:42:36,Completed,24528
+11783,1762,9,Chicken Leg (2 pcs),04/05/20,02:57:27,Completed,190
+12234,34452,3,Tom Yam Soup,09/07/19,19:31:56,Completed,1329
+16917,19448,89,Traffik Jam,05/06/19,20:45:40,Completed,4407
+10977,84005,88,Katori Chaat,05/12/17,20:25:23,Completed,1148
+16137,82200,90,Sprout Chat,01/03/19,04:42:44,Completed,2648
+10420,29131,1,Khoya Barfi,06/12/17,20:55:53,Completed,755
+13514,16822,59,Special Masala Kachori With Dahi & Cheese,23/07/18,10:45:56,Completed,1213
+13570,16639,77,Kadai Paneer  (half),31/01/20,00:50:51,Completed,70315
+15519,86412,52,Chicken Curry +  Tawa Roti (5pc) + Salad,29/12/17,09:47:27,Completed,940
+11464,29131,63,Tandoori Chaap (8 Pcs),04/10/19,21:19:57,Completed,2111
+10172,11406,43,7' Onion Tomato Capsicum Pizza,16/11/17,03:41:24,Completed,421
+13447,54375,24,Chicken Chili Garlic Oyester Style,27/12/19,02:57:27,Completed,894
+18690,20425,36,Bbq Chicken Pizza Medium,04/10/19,18:53:47,Completed,83
+13251,80918,91,Rich Combo,05/12/17,05:46:04,Completed,2833
+15886,576,97,Chicken Chili Garlic Oyester Style,27/12/19,03:50:07,Completed,806
+19317,87071,63,Chicken Chili Garlic Oyester Style,05/06/19,18:25:20,Completed,60
+12204,4728,88,Malai Palak Kofta (Half),19/03/18,20:15:36,Completed,241
+14894,19448,51,Chatpata Corn,12/02/20,05:39:18,Completed,8537
+16304,17934,51,Tender  Ice Cream,20/02/19,02:10:05,Not Completed,222
+19631,15664,63,Chicken Leg (2 pcs),05/06/19,01:36:41,Completed,3181
+18886,69103,47,Jamaican Jerk Chicken Steak,16/11/18,01:27:17,Completed,1329
+10611,60768,32,Oil Mayonnaise,09/07/19,01:01:49,Completed,46
+14673,85199,30,Paneer in Hot Garlic Sauce Dry,11/07/18,23:31:04,Completed,65
+17010,60768,59,Black Current with Ice cream,06/12/17,01:39:09,Completed,3181
+15302,89578,70,Cream of Mushroom Soup,20/04/18,22:59:10,Completed,278
+18049,76700,9,Veg Fingers 5 Pcs,10/04/19,05:19:50,Completed,1245
+16329,16131,96,Sprout Chat,10/04/19,15:42:36,Completed,806
+13464,16639,59,Oil Mayonnaise,23/05/18,05:39:18,Completed,65
+14482,70552,28,Cream of Mushroom Soup,03/12/18,08:37:04,Completed,1509
+16873,80185,28,Single Anda Masala Half Fry In Olive Oil ( 2 Brown Breads ),29/11/17,08:13:12,Completed,190
+17805,57235,23,Crispy Chilli Veg Mix,27/12/19,20:25:23,Completed,5537
+19743,19865,27,Chocolate Mousse Cake (1/2 Kg),17/10/17,08:54:57,Completed,940
+11346,30713,88,Veg Party Box,16/01/19,23:37:47,Completed,2102
+19566,36734,8,Oil Mayonnaise,08/10/18,20:06:09,Completed,306
+16964,61770,97,Veg Fingers 5 Pcs,24/01/19,13:48:09,Completed,2926
+18873,17934,77,Mushroom   Noodles,09/07/19,13:58:20,Completed,495
+17312,14532,71,Paneer in Hot Garlic Sauce Dry,17/06/20,00:55:43,Completed,1509
+19599,69103,3,Tom Yam Soup,28/09/18,21:24:12,Completed,222
+11967,49183,1,Malai Palak Kofta (Half),18/07/18,20:04:27,Completed,8537
+11898,34452,51,7' Onion Tomato Capsicum Pizza,23/04/19,21:41:09,Completed,380
+16134,87071,97,Coco With Chocolate Ice Cream,06/12/17,10:03:28,Completed,65
+13893,35796,35,Chicken Seekh Shwarama,08/06/20,06:24:09,Completed,1523
+11001,29131,62,Caramel Crisp,09/05/19,16:46:43,Not Completed,4407
+12428,30713,62,Prince Sp Boil Bhaji Pav,19/06/18,23:31:04,Completed,894
+15076,31777,29,Nutelle,23/04/19,18:26:27,Completed,157
+19151,80185,45,Caramel Crisp,30/11/18,08:54:57,Completed,278
+12632,31777,72,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),28/08/18,03:08:58,Completed,5537
+18356,28534,79,Special Masala Kachori With Dahi & Cheese,20/09/19,03:41:24,Completed,431
+15378,76700,32,Prince Sp Boil Bhaji Pav,05/12/17,20:25:23,Not Completed,70315
+18432,4728,86,Khoya Barfi,07/12/17,09:47:27,Completed,806
+13865,576,86,Bbq Chicken Pizza Medium,19/06/18,01:39:09,Completed,796
+11369,34081,44,Chicken Seekh Shwarama,03/12/18,00:19:10,Completed,1486
+18738,61770,88,Nuttela Shake,08/10/18,14:09:53,Completed,1148
+17163,15603,62,Chicken Schezwan  Fried Rice,27/02/18,04:42:44,Completed,940
+19863,19865,90,Chicken Leg (2 pcs),08/06/20,04:41:36,Completed,824
+16194,80185,28,Doctor Juice Protein Juice,19/03/18,03:43:23,Completed,88
+17259,82200,14,Roasted Corn Chowder,06/10/17,07:12:25,Not Completed,15606
+19473,19448,48,Korean Bibimbap Prawns,23/07/18,02:39:00,Not Completed,10991
+17065,96853,34,Maguro Nigiri Sushi (3 Pcs) (Tuna),16/04/18,20:55:53,Not Completed,403
+19079,84005,24,Green Chilli Corn Pizza Small,20/07/18,02:10:05,Completed,60
+10818,11406,75,Chicken Leg (2 pcs),16/11/18,08:54:57,Completed,46
+14221,61770,35,Roasted Corn Chowder,25/05/20,20:45:40,Completed,292
+16208,87071,62,Tender  Ice Cream,10/04/19,22:15:35,Completed,2648
+10483,34452,70,Cheese Jain Bhel,27/11/19,05:19:50,Completed,190
+12741,20425,5,Disco Papad Lal Mirchi (250G),05/06/19,12:39:03,Completed,111
+14551,34081,51,Katori Chaat,19/03/18,10:03:28,Completed,1722
+14845,19448,32,"Fry Kulcha , Kadhai Paneer.",10/04/19,01:27:17,Completed,1509
+16946,80918,62,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),06/12/17,13:48:09,Completed,2926
+15741,34081,88,Special Chicken Crunch Burger,08/07/19,00:50:51,Completed,1722
+10484,17934,96,Vegetable Khichdi [500ml],28/08/18,06:24:09,Completed,190
+15059,49183,37,Sweet corn Handvo,28/09/18,04:41:36,Completed,356
+13614,87071,99,Chicken DSP,03/12/18,05:46:04,Not Completed,241
+11446,2496,72,Onion Doasa,30/07/18,08:54:53,Completed,2648
+19600,35796,99,Chicken Tikka Masala (4 Pieces),03/12/18,06:24:09,Completed,1245
+17594,65084,1,Mushroom   Noodles,06/12/17,23:37:47,Completed,1194
+19543,51686,7,Vegetable Khichdi [500ml],05/12/17,00:55:43,Completed,5537
+16322,33609,42,Kadai Paneer  (half),22/02/18,07:42:31,Completed,1870
+16867,63588,27,Special Chicken Crunch Burger,23/03/20,05:59:05,Completed,394
+19365,53930,92,Chocolate And Nuts Banana Cake (500 gms),29/08/18,12:49:35,Completed,1148
+14449,96853,90,Nuttela Shake,12/02/20,08:54:57,Completed,514
+18862,16639,27,Peanut Chaat with Cheese,08/01/19,18:25:20,Completed,1523
+17793,73692,52,Ob Fresh Cheesy Loaf,19/06/18,01:50:55,Completed,2648
+14028,16639,35,Cheese Jain Bhel,17/07/19,20:04:27,Completed,102
+13316,82200,3,Kumb Taka- Tak,19/03/20,20:15:36,Completed,7222
+15587,35719,89,Bhatti Ka Murg (350 Gm),28/08/18,10:45:56,Not Completed,65
+18145,16639,43,Chocolate And Nuts Banana Cake (500 gms),04/10/19,07:42:31,Not Completed,93
+15452,30713,44,Bbq Chicken Pizza Medium,17/07/19,14:47:02,Completed,218
+18513,71223,59,Veg Khada Masala 400gm.,06/12/17,21:32:55,Completed,15606
+14829,579,84,Paneer grilled sandwich,21/10/19,13:48:46,Not Completed,306
+16643,64884,5,Sweet corn Handvo,08/06/20,13:48:09,Completed,2833
+12099,61770,78,Bhatti Ka Murg (350 Gm),23/05/18,06:01:29,Completed,1509
+16136,576,77,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),30/07/18,18:30:17,Completed,6370
+16480,15664,78,Kadai Paneer  (half),05/12/18,15:44:21,Completed,79
+12257,66599,24,Chicken Leg (2 pcs),17/07/19,19:17:29,Completed,185
+18058,16822,65,Ghee Idly 3pcs,27/12/19,00:17:42,Completed,616
+12742,71223,88,Maguro Nigiri Sushi (3 Pcs) (Tuna),30/05/18,05:46:04,Completed,472
+15103,30960,99,Ob Fresh Cheesy Loaf,21/10/19,01:01:49,Completed,509
+10821,15664,42,Mixed Beans Rice,01/03/19,08:13:12,Completed,1329
+13854,576,9,Tom Yam Soup,07/03/18,16:12:15,Completed,157
+19505,28534,52,Ob Fresh Cheesy Loaf,27/11/19,01:01:49,Completed,1523
+15410,2496,59,Single Anda Masala Half Fry In Olive Oil ( 2 Brown Breads ),12/09/18,05:59:05,Completed,3181
+12037,84611,34,Manchurian Cheese Sandwich,17/06/20,13:48:09,Completed,667
+18274,76700,43,Coco With Chocolate Ice Cream,05/12/17,01:27:17,Completed,218
+18863,35796,11,Mava Masti,04/01/19,08:37:04,Completed,824
+14263,576,88,Green Chilli Corn Pizza Small,22/02/18,21:19:57,Completed,2926
+14366,35719,71,Chocolate Mousse Cake (1/2 Kg),08/03/19,01:39:09,Completed,157
+16668,34452,27,Coco With Chocolate Ice Cream,28/10/19,13:32:27,Not Completed,24528
+14258,15664,72,Fatafat Classic Pizza,11/07/18,23:11:00,Completed,8537
+14418,71223,77,Fatafat Classic Pizza,17/07/19,21:24:12,Completed,4407
+14003,11406,3,Bbq Chicken Pizza Medium,05/11/19,01:39:09,Completed,431
+19309,579,44,Fried Chicken Mix Wings Large Bucket [12 Pcs],12/07/18,16:12:15,Not Completed,69
+10261,30960,15,Butter Chicken (Includes 2 Roomali) (1/2 kg),21/06/18,18:53:47,Completed,111
+16026,53930,48,Butter Gravy Pulav,20/04/18,21:24:12,Completed,5537
+11893,76435,63,Nutelle,08/07/19,21:41:09,Completed,51
+19872,30960,72,Ob Fresh Cheesy Loaf,19/02/18,08:09:35,Completed,93
+13524,73692,1,Adiga's Special Veg Uttapam,17/07/19,19:31:56,Completed,46
+10474,34452,94,Special Masala Kachori With Dahi & Cheese,29/11/17,20:25:23,Completed,514
+15521,17934,52,Special Coconut (200 gms),23/03/20,08:13:12,Completed,630
+10930,16639,8,Lychee (500 gms),29/08/18,13:48:46,Completed,3472
+16292,30713,24,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),30/05/18,13:58:20,Completed,514
+19396,61770,32,Chicken Curry +  Tawa Roti (5pc) + Salad,02/05/19,08:37:04,Completed,190
+19334,28534,88,Black Current with Ice cream,07/12/17,07:42:31,Completed,1329
+15230,70552,79,Butter Chicken (Includes 2 Roomali) (1/2 kg),05/12/18,15:29:26,Completed,60
+15361,31777,1,Chicken Seekh Shwarama,12/02/20,01:39:09,Completed,146222
+17160,87071,91,Chicken Seekh Shwarama,04/05/20,04:41:36,Completed,356
+11598,35796,8,Kashmiri Gulkand,10/04/19,08:37:04,Completed,83810
+17775,85199,51,Cheese Jain Bhel,20/04/18,15:29:26,Completed,190
+10969,66599,70,Black Forest Cake,20/07/18,03:08:58,Completed,65
+12249,17934,79,7' Onion Tomato Capsicum Pizza,02/05/19,22:15:35,Completed,1213
+18083,34081,77,Cheese Jain Bhel,04/01/19,14:26:31,Completed,1069
+17453,17934,48,Quinoa Barley Pilaf *,13/03/20,05:46:04,Completed,88
+11952,63588,14,Disco Papad Lal Mirchi (250G),01/02/19,21:32:55,Completed,940
+14089,576,36,Tummy Full ( Tandoori Sandwich + Veg Grilled + Mojito + Masala Drink ),29/08/18,16:12:15,Completed,366
+16185,20425,72,Cheese Jain Bhel,22/02/18,21:19:57,Completed,2111
+18800,65084,86,Bhuna 3Pal Anda Cheese Roll,02/05/19,18:26:27,Completed,1523
+10078,61770,89,7' Onion Tomato Capsicum Pizza,28/10/19,18:31:43,Completed,356
+13775,60768,91,Khoya Barfi,25/05/20,23:11:00,Completed,8597
+17788,61770,70,Cream of Mushroom Soup,23/07/18,14:47:02,Completed,88
+10131,66599,13,Cheese Jain Bhel,13/09/18,21:24:12,Completed,111
+15183,80185,1,Garlic Yoghurt White Sauce,05/12/17,15:00:21,Completed,157
+19015,89578,47,Chicken Schezwan  Fried Rice,27/07/18,19:17:29,Completed,1509
+14809,64884,59,Kadhai Chicken Rajma Ricecombo Meal,27/12/18,03:50:07,Completed,630
+12607,1762,27,Veg Fingers 5 Pcs,05/12/18,21:19:57,Completed,2102
+13253,76435,35,Prince Sp Boil Bhaji Pav,29/08/18,15:05:40,Completed,1329
+18273,35796,1,7' Onion Tomato Capsicum Pizza,19/03/20,12:39:03,Completed,3181
+18565,19865,9,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),05/06/19,02:43:43,Not Completed,2102
+19690,82200,77,Ob Fresh Cheesy Loaf,02/05/19,23:31:04,Completed,824
+10360,76700,63,Khoya Barfi,05/12/18,12:49:35,Completed,472
+14224,1762,11,Paneer in Hot Garlic Sauce Dry,08/03/19,18:26:27,Completed,65
+11090,76700,71,Tender  Ice Cream,27/12/19,02:39:00,Completed,431
+13946,19865,8,Tandoori Chaap (8 Pcs),20/02/19,21:32:55,Completed,60
+15458,35719,51,Swiss Cake Ice Cream 240ml,17/09/19,19:10:42,Completed,4407
+16526,71223,9,Kashmiri Gulkand,30/05/18,12:20:25,Completed,1213
+17636,35719,70,Tender  Ice Cream,02/02/18,18:53:47,Completed,431
+15758,82200,81,Shrikhand Elichi,28/10/19,18:31:43,Completed,111
+18127,12257,62,Korean Bibimbap Prawns,02/02/18,15:36:19,Completed,2111
+16053,30713,3,Kashmiri Gulkand,16/01/19,11:39:35,Completed,495
+17930,19865,9,Cream of Mushroom Soup,07/03/18,05:19:50,Completed,824
+14967,17934,62,Disco Papad Lal Mirchi (250G),23/04/18,05:25:08,Completed,19208
+16370,73692,96,Bheja  (Soup),11/07/18,22:59:05,Completed,116
+11002,84611,35,Doctor Juice Protein Juice,12/02/20,21:19:57,Completed,97
+14944,64884,7,Fresh Paneer-250Gms,08/03/19,15:00:21,Completed,70315
+17809,64884,96,Medium Peri Per Pizza,05/12/17,18:53:47,Not Completed,384
+16421,29131,28,Swiss Cake Ice Cream 240ml,12/09/18,06:01:29,Completed,10991
+16616,96853,72,Chicken Seekh Shwarama,05/12/18,03:08:58,Completed,630
+19713,30960,36,Paneer in Hot Garlic Sauce Dry,06/12/17,05:19:50,Completed,218
+14297,576,11,Shrikhand Elichi,01/02/19,18:30:17,Completed,65
+14037,80185,73,Ob Fresh Cheesy Loaf,20/02/19,20:15:36,Completed,1194
+16600,61770,92,Adiga's Special Veg Uttapam,30/04/20,23:37:47,Completed,83
+16389,32261,81,Cheese Jain Bhel,27/12/19,01:01:49,Completed,222
+13410,53930,88,Chocolate Mousse Cake (1/2 Kg),05/12/18,14:26:31,Completed,106
+10858,20425,11,Bheja  (Soup),03/12/18,00:12:08,Completed,5537
+15463,64884,8,Crispy Chilli Veg Mix,27/12/18,12:39:03,Completed,157
+10684,19865,9,Small Cheese Burst Pappy Paneer Pizza,20/04/18,16:46:43,Completed,65
+13439,35719,15,Traffik Jam,01/03/19,03:50:07,Completed,6370
+15283,16822,79,Chilli Chinese Dosa,06/03/20,12:49:35,Completed,509
+19171,16639,88,Special Masala Kachori With Dahi & Cheese,16/11/17,07:12:25,Completed,3444
+19925,16822,65,Chicken Tikka Masala (4 Pieces),05/12/18,16:46:43,Completed,157
+10747,69103,97,Crispy Chilli Veg Mix,05/06/19,19:10:42,Completed,806
+19394,34452,7,Nuttela Shake,06/12/17,15:29:31,Not Completed,65
+15770,63588,3,Kashmiri Gulkand,27/11/19,20:15:36,Completed,514
+13014,14532,27,Chicken Leg (2 pcs),11/07/18,20:10:15,Completed,88
+19570,64291,9,8' Onion Capsicum corn,05/12/18,23:37:47,Completed,79
+13884,76700,91,Fresh Paneer-250Gms,12/09/19,16:33:58,Completed,755
+12450,576,62,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),17/07/19,08:37:04,Completed,6370
+14644,61770,28,Oil Mayonnaise,23/03/20,21:13:49,Completed,1523
+16651,11406,84,Malai Palak Kofta (Half),20/09/19,01:36:41,Completed,7222
+16237,576,32,Bbq Chicken Pizza Medium,12/09/19,14:26:31,Completed,70315
+17107,61770,45,Chicken Seekh Shwarama,20/04/18,05:46:04,Completed,88
+16852,14532,1,Mava Masti,11/07/18,23:37:47,Completed,1171
+16359,71223,77,Chicken Seekh Shwarama,04/05/20,02:43:43,Completed,185
+15006,80185,97,Adiga's Special Veg Uttapam,08/06/20,18:30:17,Completed,356
+18744,73692,15,Jamaican Jerk Chicken Steak,27/12/18,06:28:09,Completed,24528
+19841,20425,42,Shrikhand Elichi,04/05/20,04:42:44,Completed,875
+13246,89578,94,Bheja  (Soup),03/12/19,01:50:55,Completed,2111
+14913,57235,62,Sprout Chat,17/06/20,15:44:21,Completed,2102
+14739,57235,79,Veg Khada Masala 400gm.,23/04/19,03:08:58,Completed,1509
+19196,61770,11,Veg Khada Masala 400gm.,20/10/17,19:10:42,Completed,111
+15858,15603,70,Veg Traditional Combo,04/11/19,05:59:05,Completed,1870
+12365,36734,9,Chicken Seekh Shwarama,09/05/19,23:31:04,Completed,824
+15431,36734,27,Disco Papad Lal Mirchi (250G),25/06/18,20:55:53,Completed,65
+11019,20425,7,Rich Combo,21/03/18,02:43:43,Completed,241
+10048,73692,44,Mixed Beans Rice,27/07/18,05:46:04,Completed,70315
+17126,71223,89,Kashmiri Gulkand,18/09/19,21:19:57,Completed,190
+11321,16639,15,Tender  Ice Cream,31/01/20,03:59:57,Completed,384
+13312,80185,51,Ghee Idly 3pcs,09/07/19,22:59:10,Completed,19208
+11501,76700,7,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),08/03/19,02:43:43,Completed,509
+17914,17934,78,Special Coconut (200 gms),05/12/17,21:19:57,Not Completed,431
+17695,57235,59,Mutton Masala [500 Gram],28/08/18,18:31:43,Completed,88
+13695,76700,35,Malai Palak Kofta (Half),30/07/18,22:15:35,Completed,120
+13005,29131,32,Choco Malt Pie (Per Pc),21/06/18,23:13:33,Completed,1069
+17892,19448,5,Chicken Chili Garlic Oyester Style,28/09/18,06:28:09,Completed,3472
+12900,16822,1,Special Masala Kachori With Dahi & Cheese,06/12/17,18:31:43,Completed,83
+14203,64884,37,Traffik Jam,13/09/18,20:04:27,Completed,65
+15739,71223,77,Butter Chicken (Includes 2 Roomali) (1/2 kg),20/02/19,18:53:47,Completed,394
+13112,2496,88,Sprout Chat,19/03/18,23:13:33,Completed,806
+18435,576,90,Mushroom   Noodles,06/12/17,19:31:56,Completed,394
+16085,1762,28,Ob Fresh Cheesy Loaf,20/09/19,07:42:31,Completed,495
+18005,64884,86,Mushroom   Noodles,20/09/19,01:27:17,Completed,394
+12356,80918,86,Bhatti Ka Murg (350 Gm),17/07/19,00:12:08,Completed,134
+12433,35719,51,Khari Platter,23/04/18,18:26:52,Completed,134
+14398,31777,27,Dehradun Rusk (280gms),13/12/18,07:35:50,Completed,190
+19464,30960,24,Special Coconut (200 gms),27/07/18,20:06:09,Completed,472
+10303,576,48,Mushroom Schezwan Panner Dosa,23/03/20,15:29:26,Completed,1194
+16609,19448,27,Nuttela Shake,16/04/18,19:31:56,Completed,2102
+13536,1762,91,Black Forest Cake,21/03/18,12:39:03,Completed,2866
+13305,86412,37,Adiga's Special Veg Uttapam,29/12/17,03:50:07,Completed,403
+17335,66599,81,Khoya Barfi,06/12/17,19:17:29,Completed,940
+17953,2496,32,Maguro Nigiri Sushi (3 Pcs) (Tuna),05/12/17,01:36:41,Completed,88
+16001,64884,14,Crispy Chilli Veg Mix,20/07/18,09:47:27,Completed,1213
+10506,84611,30,Hummus (Large),12/07/18,00:50:51,Completed,88
+11028,16639,44,Arrabiata Pasta Chicken,12/09/19,10:03:28,Completed,356
+15289,19865,1,Quinoa Barley Pilaf *,07/03/18,22:59:05,Not Completed,134
+13176,65084,4,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),20/04/18,02:10:05,Completed,69
+19946,15664,63,Kumb Taka- Tak,27/11/19,13:58:20,Completed,157
+13846,61770,8,Mushroom Schezwan Panner Dosa,30/11/18,10:03:28,Completed,190
+14281,579,1,Hummus (Large),18/07/18,00:17:42,Completed,3444
+14999,31777,79,Prince Sp Boil Bhaji Pav,06/10/17,15:44:21,Completed,241
+10567,576,92,Bhuna 3Pal Anda Cheese Roll,03/12/18,15:44:21,Completed,10991
+14808,17934,24,Sprout Chat,05/12/18,00:39:28,Completed,111
+19430,4294,94,Fried Chicken Mix Wings Large Bucket [12 Pcs],29/08/18,13:48:09,Completed,88
+17584,576,30,Chicken Curry +  Tawa Roti (5pc) + Salad,27/12/19,05:39:18,Completed,394
+19493,1762,62,Tom Yam Soup,16/01/19,16:33:58,Not Completed,51
+19419,19448,30,Lychee (500 gms),19/06/18,10:03:28,Completed,394
+12255,80185,86,Jamaican Jerk Chicken Steak,20/02/19,13:32:27,Completed,134
+19853,76700,32,Cheese Jain Bhel,03/12/19,18:25:20,Completed,292
+17318,11406,8,Mushroom   Noodles,23/04/18,18:25:20,Completed,431
+19311,36734,96,Chocolate And Nuts Banana Cake (500 gms),16/11/17,12:39:03,Completed,366
+10872,19448,59,Bhuna 3Pal Anda Cheese Roll,08/10/18,16:33:58,Completed,1069
+14156,576,97,Chicken Chili Garlic Oyester Style,25/05/20,04:32:44,Completed,46
+12502,60768,27,Chocolate And Nuts Banana Cake (500 gms),19/03/20,20:45:40,Completed,69
+14212,84611,62,Tandoori Chaap (8 Pcs),02/02/18,06:24:09,Completed,83810
+15484,33609,90,Jamaican Jerk Chicken Steak,01/03/19,22:59:05,Completed,70315
+18672,17934,77,Jamaican Jerk Chicken Steak,05/11/19,18:31:43,Completed,495
+19287,75499,70,Ghee Idly 3pcs,31/01/20,00:17:42,Completed,1213
+18063,4294,62,Khari Platter,05/12/17,03:43:23,Completed,514
+12776,16822,34,Chicken Chili Garlic Oyester Style,29/12/17,03:50:07,Completed,5537
+18869,87071,23,Katori Chaat,20/10/17,01:50:55,Completed,306
+18323,76700,99,Tandoori Chaap (8 Pcs),16/11/17,01:50:55,Completed,1486
+10918,1762,9,Kadhai Chicken Rajma Ricecombo Meal,19/03/20,12:39:03,Completed,292
+11900,34081,41,Mushroom   Noodles,28/10/19,15:42:53,Completed,5537
+16777,19865,12,Khoya Barfi,10/07/19,01:50:55,Completed,157
+11497,15664,62,Onion Doasa,28/08/18,19:31:53,Completed,1870
+13068,61770,57,Cheese Topi Masala Dosa,17/06/20,00:55:43,Completed,60
+15878,65084,88,Adiga's Special Veg Uttapam,07/12/17,20:25:23,Completed,51
+18445,61770,33,Onion Doasa,21/06/18,18:31:43,Completed,46
+12754,30713,72,Kumb Taka- Tak,05/06/19,01:01:49,Completed,495
+10343,64884,28,Chicken Leg (2 pcs),28/09/18,16:33:58,Not Completed,421
+16349,579,84,Caramel Crisp,17/10/17,08:09:35,Completed,472
+13013,76435,72,Tender  Ice Cream,13/08/18,15:42:36,Completed,2111
+13493,85199,62,Mava Masti,23/03/20,05:46:04,Completed,69
+19410,76700,32,Mixed Beans Rice,27/12/19,05:46:04,Completed,11731
+19181,16131,5,Special Masala Kachori With Dahi & Cheese,01/02/19,15:44:21,Completed,1486
+19996,65084,86,Nutelle,04/01/19,13:32:27,Not Completed,157
+17351,89578,15,Roasted Corn Chowder,17/09/19,14:47:02,Completed,1194
+18524,35719,62,Veg Panner 65,05/12/18,08:54:57,Completed,509
+12570,65084,47,Veg Traditional Combo,09/07/19,22:59:10,Not Completed,1870
+11822,34452,5,Kumb Taka- Tak,04/05/20,09:47:27,Completed,120
+11260,20425,62,Chocolate Mousse Cake (1/2 Kg),08/06/20,06:24:09,Completed,218
+18643,61770,36,Veg Khada Masala 400gm.,16/11/17,22:59:05,Completed,1523
+18384,87071,35,Bheja  (Soup),23/03/20,04:32:44,Completed,292
+11104,576,73,Paneer in Hot Garlic Sauce Dry,12/04/18,18:31:43,Completed,60
+13643,16131,62,Caramel Crisp,06/03/20,13:38:35,Completed,190
+13480,579,8,Khari Platter,16/04/18,15:42:36,Completed,1245
+16083,35796,62,Cheese Topi Masala Dosa,04/11/19,11:39:35,Completed,366
+15634,86412,28,Tender  Ice Cream,30/11/18,13:58:20,Completed,19208
+13400,80185,1,Casatta Cake Cake [900 Gm],17/09/19,15:36:19,Completed,60
+16644,64291,90,Sprout Chat,08/07/19,15:29:31,Completed,102
+15305,66599,73,Choco Malt Pie (Per Pc),19/03/20,03:02:46,Completed,495
+18955,30713,1,Chicken Leg (2 pcs),04/01/19,10:03:28,Completed,875
+19446,80185,48,Kumb Taka- Tak,06/12/17,01:01:49,Not Completed,384
+19970,576,28,Shrikhand Elichi,27/12/19,02:39:00,Completed,69
+16478,60768,52,Veg Traditional Combo,13/12/18,23:11:00,Completed,111
+10195,35719,27,Cream of Mushroom Soup,30/04/20,20:04:27,Completed,1069
+10176,70552,96,Adiga's Special Veg Uttapam,29/08/18,07:35:50,Completed,111
+15677,61770,62,Paneer in Hot Garlic Sauce Dry,27/11/19,05:59:05,Completed,2111
+12184,73692,5,Special Coconut (200 gms),20/10/17,00:12:08,Completed,65
+19029,91913,33,Garlic Yoghurt White Sauce,16/04/18,20:15:36,Completed,806
+17341,16639,5,Maguro Nigiri Sushi (3 Pcs) (Tuna),08/06/20,23:31:04,Completed,46
+17942,35796,23,Jamaican Jerk Chicken Steak,29/12/17,09:47:27,Completed,218
+10898,4728,96,Swiss Cake Ice Cream 240ml,31/01/20,00:55:43,Completed,218
+17132,34081,24,Veg Panner 65,18/07/18,14:43:26,Completed,8597
+12853,86412,5,Traffik Jam,23/04/18,15:42:36,Completed,4407
+13058,71223,15,Arrabiata Pasta Chicken,29/11/17,19:10:42,Completed,218
+15166,34081,99,Fried Chicken Mix Wings Large Bucket [12 Pcs],02/05/18,19:27:11,Completed,88
+11570,71223,59,Kumb Taka- Tak,19/03/20,05:19:50,Completed,88
+16464,11406,77,Coco With Chocolate Ice Cream,30/05/18,08:37:04,Completed,5537
+15650,57235,90,Chicken DSP,16/01/19,08:54:57,Completed,19208
+12458,61770,35,Cheese Topi Masala Dosa,16/01/19,05:25:08,Completed,384
+15159,85199,28,Chocolate And Nuts Banana Cake (500 gms),05/11/19,18:26:27,Completed,2111
+10750,96853,90,Mixed Beans Rice,04/10/19,15:44:21,Completed,116
+13911,82200,8,Khoya Barfi,29/11/17,12:49:35,Completed,134
+14911,65084,62,Ob Fresh Cheesy Loaf,20/09/19,15:36:19,Completed,472
+19796,76435,70,Manchurian Cheese Sandwich,10/04/19,02:10:05,Completed,222
+19789,2496,59,Chocolate Mousse Cake (1/2 Kg),04/11/19,13:38:35,Completed,5537
+10848,86412,78,Onion Doasa,22/02/18,01:01:49,Completed,278
+17109,54375,9,Chocolate And Nuts Banana Cake (500 gms),08/10/18,03:02:46,Completed,616
+14591,51686,28,Kadai Paneer  (half),08/10/18,00:17:42,Completed,190
+11774,64884,35,Special Masala Kachori With Dahi & Cheese,09/05/19,13:48:46,Completed,1148
+19576,32261,62,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),02/05/18,07:42:31,Completed,2111
+16593,80185,12,Bbq Chicken Pizza Medium,20/07/18,20:15:36,Completed,2866
+11612,15603,28,Mava Masti,06/10/17,02:57:27,Completed,2102
+16796,64291,96,Buttermilk Cake [1 Kg],12/09/19,20:10:15,Completed,97
+17436,19865,27,Spl Biryani (Chicken Tikka),04/01/19,13:48:09,Completed,218
+12377,35719,70,Khari Platter,02/02/18,20:45:40,Completed,111
+15627,35719,79,Quinoa Barley Pilaf *,03/12/18,18:26:52,Completed,111
+14476,65084,75,Roasted Corn Chowder,28/08/18,07:24:06,Completed,366
+13348,80185,59,Adiga's Special Veg Uttapam,12/04/18,20:55:53,Completed,1069
+10492,70552,72,Fresh Paneer-250Gms,04/11/19,12:49:35,Completed,616
+17980,71223,44,Chicken Curry +  Tawa Roti (5pc) + Salad,05/12/17,09:47:27,Completed,366
+17295,15664,52,Choco Malt Pie (Per Pc),02/05/19,14:09:53,Completed,1509
+17443,73692,99,Green Chilli Corn Pizza Small,20/04/18,15:29:31,Completed,8597
+11406,66599,97,Supreme cheese garlic Bread,16/11/17,08:13:12,Completed,5537
+10598,80185,37,Kashmiri Gulkand,06/02/20,05:39:18,Completed,616
+13189,20425,15,Coco With Chocolate Ice Cream,05/11/19,18:25:20,Completed,292
+17754,20425,78,Chocolate Mousse Cake (1/2 Kg),20/09/19,19:17:29,Completed,24528
+17951,64291,30,Hummus (Large),28/09/18,05:59:05,Completed,51
+13167,61770,6,Kadhai Chicken Rajma Ricecombo Meal,17/10/17,09:47:27,Completed,146222
+18541,35719,97,Onion Doasa,03/12/18,03:08:58,Completed,83
+18600,30960,62,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),27/12/19,23:37:47,Completed,83810
+19588,33609,45,Bhuna 3Pal Anda Cheese Roll,08/01/19,14:25:34,Completed,51
+17367,20425,77,Chocolate Mousse Cake (1/2 Kg),20/04/18,18:26:27,Completed,46
+15073,1762,13,Chilli Chinese Dosa,25/06/18,18:26:52,Completed,1194
+15149,51686,86,Chatpata Corn,21/06/18,00:55:43,Completed,11731
+12016,63588,4,Mava Masti,06/02/20,00:12:08,Completed,630
+15475,34081,3,Cheese Topi Masala Dosa,06/08/19,13:58:20,Completed,10991
+12293,89578,45,Special Chicken Crunch Burger,27/02/18,19:27:11,Completed,1171
+11521,16639,8,Special Coconut (200 gms),01/02/19,02:39:00,Completed,146222
+15477,19448,28,Fried Chicken Mix Wings Large Bucket [12 Pcs],27/12/19,10:03:28,Completed,102
+14758,1762,6,Kadai Paneer  (half),30/04/20,21:32:55,Completed,111
+19120,1762,59,Chicken Burger Burger,06/02/20,21:19:57,Completed,824
+13833,86412,88,Special Coconut (200 gms),20/09/19,06:24:09,Completed,1486
+19800,17934,59,Butter Chicken (Includes 2 Roomali) (1/2 kg),05/12/18,00:50:51,Completed,1213
+18186,76700,1,Khari Platter,06/08/19,21:41:09,Completed,70315
+15004,2496,9,Tender  Ice Cream,12/02/20,10:45:56,Completed,514
+11758,30713,57,Chilli Chinese Dosa,28/09/18,07:42:31,Completed,146222
+14162,19448,37,8' Onion Capsicum corn,20/09/19,21:24:12,Completed,431
+12926,86412,78,Mutton Masala [500 Gram],20/10/17,12:49:35,Completed,1213
+13504,57235,32,Paneer grilled sandwich,21/06/18,19:27:11,Completed,46
+12601,60768,28,Veg Fingers 5 Pcs,06/10/17,20:45:40,Completed,7222
+12466,2496,94,Chicken Burger Burger,07/12/17,13:58:20,Completed,940
+19717,80918,94,Black Forest Cake,05/12/17,03:59:57,Completed,1148
+18968,35719,35,Fatafat Classic Pizza,23/03/20,19:31:56,Completed,514
+12581,96853,42,Mutton Masala [500 Gram],21/03/18,19:10:42,Completed,3472
+14640,2496,33,Kumb Taka- Tak,08/07/19,03:50:07,Completed,514
+11207,16639,28,Veg Panner 65,28/08/18,07:35:50,Completed,514
+18774,4294,42,Chicken Curry +  Tawa Roti (5pc) + Salad,05/08/19,22:59:10,Completed,394
+17781,16639,92,Mava Masti,13/12/18,01:01:49,Completed,4407
+14971,12257,48,Plain kachori with Curry,28/08/18,08:37:04,Completed,6370
+10445,84005,48,Nutelle,05/06/19,19:17:29,Completed,46
+19681,86412,72,Mushroom Schezwan Panner Dosa,07/12/17,07:42:31,Completed,356
+11998,51686,63,7' Onion Tomato Capsicum Pizza,11/07/18,20:45:40,Completed,88
+16379,96853,4,Chicken Chili Garlic Oyester Style,17/07/19,18:26:27,Completed,69
+19657,34452,44,Veg Fingers 5 Pcs,11/07/18,13:58:20,Completed,1722
+13673,576,62,Kumb Taka- Tak,25/06/18,05:25:08,Completed,5537
+11544,19865,28,Mutton Masala [500 Gram],16/01/19,08:54:53,Completed,1486
+19315,17934,48,Special Coconut (200 gms),18/09/19,22:59:05,Completed,338
+14786,1762,6,Oil Mayonnaise,27/02/18,19:31:53,Completed,1069
+19054,70552,71,Bheja  (Soup),06/10/17,08:09:35,Completed,1194
+16903,29131,33,Nutelle,25/06/18,10:03:28,Completed,894
+11360,63588,89,Swiss Cake Ice Cream 240ml,17/09/19,19:31:53,Completed,403
+13840,579,62,Prince Sp Boil Bhaji Pav,22/02/18,02:57:27,Completed,146222
+14143,12257,8,Garlic Yoghurt White Sauce,11/07/18,01:27:17,Completed,8537
+12967,20425,43,Veg Traditional Combo,18/07/18,03:43:23,Completed,306
+11865,579,4,Plain kachori with Curry,29/12/17,20:45:40,Completed,796
+11875,71223,23,Tender  Ice Cream,19/02/18,16:33:58,Completed,116
+16056,70552,5,Traffik Jam,16/11/18,21:13:49,Completed,88
+14664,76435,35,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),20/02/19,15:29:31,Completed,65
+10437,80918,5,Mushroom Schezwan Panner Dosa,08/01/19,07:12:25,Completed,12486
+13361,91913,24,Special Coconut (200 gms),30/11/18,18:31:43,Completed,2866
+13015,31777,71,Jamaican Jerk Chicken Steak,27/11/19,13:38:35,Completed,190
+12439,63588,15,Korean Bibimbap Prawns,17/06/20,01:01:49,Completed,222
+11742,16131,70,Mava Masti,05/08/19,20:45:40,Completed,278
+15032,20425,52,Chicken Curry +  Tawa Roti (5pc) + Salad,29/12/17,14:26:31,Completed,70315
+12283,30713,6,Crispy Chilli Veg Mix,08/06/20,21:13:49,Completed,139
+13374,91913,7,Bhuna 3Pal Anda Cheese Roll,10/04/19,03:08:58,Completed,356
+13726,35719,62,Coco With Chocolate Ice Cream,23/04/19,13:48:46,Completed,1148
+18235,64884,44,Veg Traditional Combo,05/11/19,19:10:42,Completed,1870
+16192,20425,5,Peanut Chaat with Cheese,28/08/18,23:37:47,Completed,24528
+11734,20425,62,Quinoa Barley Pilaf *,21/10/19,15:42:36,Completed,338
+15118,14532,28,8' Onion Capsicum corn,19/06/18,18:31:43,Completed,1523
+16414,16639,97,Veg Traditional Combo,11/07/18,08:09:35,Completed,134
+12735,64884,33,Khoya Barfi,06/03/20,22:59:10,Completed,65
+13358,15664,63,Rich Combo,30/11/18,01:27:17,Completed,3472
+19330,61770,9,Special Coconut (200 gms),20/07/18,08:37:04,Completed,366
+15065,34081,32,Shrikhand Elichi,21/10/19,13:48:09,Completed,24528
+13148,76700,34,Super Man,29/08/18,08:54:53,Completed,1509
+13047,34081,70,Paneer in Hot Garlic Sauce Dry,13/08/18,18:25:20,Completed,6370
+14351,12257,44,Prince Sp Boil Bhaji Pav,27/11/19,03:02:46,Completed,134
+19723,61770,14,Chicken Schezwan  Fried Rice,28/09/18,15:36:19,Completed,157
+12091,31777,70,Traffik Jam,23/05/18,15:05:40,Completed,514
+19649,80918,96,Rich Combo,16/11/18,06:01:29,Not Completed,1245
+13762,76700,86,Chicken Chili Garlic Oyester Style,04/05/20,06:24:09,Completed,157
+17394,11406,36,Manchurian Cheese Sandwich,20/09/19,23:11:00,Completed,222
+17360,35796,5,Fresh Paneer-250Gms,20/10/17,19:27:11,Completed,1523
+12451,36734,23,Prince Sp Boil Bhaji Pav,30/11/18,12:20:25,Completed,46
+10988,57235,65,Mushroom Schezwan Panner Dosa,08/06/20,19:27:11,Completed,134
+13648,35796,75,Oil Mayonnaise,13/12/18,08:09:35,Completed,421
+14018,2496,24,Peanut Chaat with Cheese,01/03/19,15:05:40,Completed,1069
+18880,86412,62,Khari Platter,12/09/19,13:38:35,Completed,222
+17555,16822,29,Fried Chicken Mix Wings Large Bucket [12 Pcs],12/09/18,23:31:04,Not Completed,894
+13307,82200,94,Adiga's Special Veg Uttapam,27/12/18,00:50:51,Completed,190
+15106,82200,88,Jamaican Jerk Chicken Steak,12/09/18,18:30:17,Completed,1148
+19984,4294,59,Kadhai Chicken Rajma Ricecombo Meal,27/07/18,03:02:46,Completed,11731
+18544,51686,14,Chatpata Corn,12/02/20,08:13:12,Completed,134
+10375,17934,44,Khari Platter,01/03/19,14:43:26,Completed,15606
+19154,35719,12,Medium Peri Per Pizza,25/05/20,07:42:31,Completed,15606
+11050,66599,91,Bheja  (Soup),23/05/18,20:55:53,Completed,111
+11437,63588,32,Shrikhand Elichi,13/09/18,05:46:04,Completed,338
+10525,34081,96,Choco Malt Pie (Per Pc),11/07/18,16:12:15,Completed,5537
+10949,35719,29,Garlic Yoghurt White Sauce,09/05/19,05:46:04,Completed,46
+15592,61770,37,Shrikhand Elichi,05/12/18,08:54:57,Completed,1148
+18645,61770,11,Kadai Paneer  (half),06/10/17,07:12:25,Completed,495
+17728,36734,8,Bhuna 3Pal Anda Cheese Roll,29/12/17,02:39:00,Completed,83
+18827,35796,27,Butter Gravy Pulav,22/02/18,20:15:36,Completed,88
+11564,57235,88,Veg Fingers 5 Pcs,28/03/19,14:25:34,Completed,338
+11830,66599,41,Paneer grilled sandwich,02/02/18,20:25:23,Completed,755
+15651,66599,97,Tender  Ice Cream,05/11/19,12:49:35,Completed,403
+12543,98071,29,Maguro Nigiri Sushi (3 Pcs) (Tuna),13/03/20,01:27:17,Completed,1329
+16323,4294,43,Chatpata Corn,01/02/19,14:43:26,Completed,2111
+13352,69103,59,Jamaican Jerk Chicken Steak,18/09/19,00:17:42,Completed,278
+14752,34452,89,Chicken Tikka Masala (4 Pieces),05/12/17,23:11:00,Completed,111
+19438,32261,37,Chicken Tikka Masala (4 Pieces),23/04/18,08:54:53,Completed,70315
+17395,76435,13,Veg Panner 65,06/12/17,20:55:53,Completed,6370
+10653,4294,7,8' Onion Capsicum corn,22/02/18,00:55:43,Completed,70315
+10882,34452,72,Spl Biryani (Chicken Tikka),27/12/19,14:25:34,Completed,88
+17415,35796,88,Veg Party Box,10/04/19,20:06:09,Completed,796
+13800,87071,3,Black Forest Cake,18/07/18,18:53:47,Completed,157
+15955,36734,86,Kumb Taka- Tak,05/06/19,23:37:47,Completed,630
+14068,98071,59,Chicken Tikka & Cheese Pizza (Fress Hand Maid Base),05/12/17,14:25:34,Completed,2866
+19991,16639,35,Swiss Cake Ice Cream 240ml,25/05/20,16:33:58,Completed,1870
+17506,70552,27,Malai Palak Kofta (Half),27/12/19,07:12:25,Completed,157
+15063,71223,35,Chicken Schezwan  Fried Rice,09/05/19,13:38:35,Completed,11731
+11642,1762,77,Super Man,02/02/18,14:09:53,Completed,65
+15750,89578,71,Jamaican Jerk Chicken Steak,23/04/18,13:48:46,Completed,2102
+12767,64884,70,Bhatti Ka Murg (350 Gm),05/12/17,22:59:05,Completed,1722
+12725,89578,8,Medium Peri Per Pizza,04/05/20,00:50:51,Completed,102
+19028,80185,9,Quinoa Barley Pilaf *,22/02/18,14:47:02,Completed,102
+18467,20425,9,Ob Fresh Cheesy Loaf,04/01/19,07:42:31,Completed,875
+18519,66599,84,Fatafat Classic Pizza,25/06/18,04:42:44,Completed,116
+19822,80185,9,Khari Platter,22/02/18,01:50:55,Completed,46
+14291,20425,28,7' Onion Tomato Capsicum Pizza,23/05/18,07:24:06,Completed,1486
+18225,35719,37,Mixed Beans Rice,06/12/17,01:39:09,Completed,65
+14152,71223,72,Shrikhand Elichi,04/01/19,22:59:05,Completed,111
+15377,32261,66,Nuttela Shake,08/03/19,14:09:53,Completed,111
+16592,71223,28,Chatpata Corn,28/09/18,11:39:35,Completed,1148
+19602,34452,29,Oil Mayonnaise,02/05/19,01:36:41,Completed,6370
+19614,73692,28,Chicken Leg (2 pcs),05/08/19,18:26:52,Completed,134
+13701,53930,44,Kadhai Chicken Rajma Ricecombo Meal,30/04/20,20:10:15,Completed,755
+18644,71223,24,Chicken Schezwan  Fried Rice,27/12/19,03:43:23,Completed,69
+12205,2496,77,Maguro Nigiri Sushi (3 Pcs) (Tuna),20/04/18,16:12:15,Completed,10991
+10319,64884,94,Arrabiata Pasta Chicken,05/11/19,21:24:12,Completed,88
+18743,98071,1,Coco With Chocolate Ice Cream,12/09/18,00:50:51,Completed,12486
+10407,576,12,Casatta Cake Cake [900 Gm],27/12/19,07:24:06,Completed,3444
+12119,19865,1,Garlic Yoghurt White Sauce,17/10/17,20:04:27,Completed,102
+11197,35719,24,Black Forest Cake,27/02/18,05:46:04,Completed,894
+19499,84005,88,Coco With Chocolate Ice Cream,08/06/20,00:50:51,Completed,111
+15291,89578,29,Nutelle,08/01/19,18:59:45,Completed,630
+13421,80185,4,Coco With Chocolate Ice Cream,06/02/20,19:10:42,Completed,5537
+19552,51686,44,Mushroom   Noodles,05/11/19,23:31:04,Not Completed,111
+11471,29131,92,Arrabiata Pasta Chicken,22/02/18,03:43:23,Completed,241
+14604,31777,1,Kadhai Chicken Rajma Ricecombo Meal,16/11/18,15:42:53,Completed,10991
+11752,15664,51,Chicken Seekh Shwarama,09/05/19,04:42:44,Completed,10991
+18455,34081,11,Oil Mayonnaise,19/06/18,08:54:57,Completed,514
+17127,35796,32,Tom Yam Soup,17/07/19,12:39:03,Completed,88
+16994,64884,23,Rich Combo,02/05/18,12:39:03,Completed,1148
+19241,69103,62,Chilli Chinese Dosa,30/05/18,01:27:17,Completed,190
+14753,80185,99,Small Cheese Burst Pappy Paneer Pizza,18/07/18,06:24:09,Completed,190
+17391,19865,72,Chicken Burger Burger,19/02/18,01:01:49,Completed,10991
+13239,87071,52,Chicken DSP,27/12/18,16:12:15,Completed,10991
+15066,4294,72,Ob Fresh Cheesy Loaf,13/08/18,15:29:26,Completed,630
+11078,80185,62,Kadai Paneer  (half),13/12/18,12:39:03,Not Completed,241
+14989,15664,63,Kadai Paneer  (half),29/11/17,16:33:58,Completed,394
+11297,4294,62,"Fry Kulcha , Kadhai Paneer.",17/06/20,15:05:40,Not Completed,1329
+14884,35719,97,Fried Chicken Mix Wings Large Bucket [12 Pcs],30/05/18,05:59:05,Completed,630
+11311,61770,86,Chocolate Mousse Cake (1/2 Kg),05/11/19,09:47:27,Completed,11731
+10823,15664,47,Chicken Chili Garlic Oyester Style,30/07/18,01:27:17,Completed,1171
+10828,17934,99,Katori Chaat,20/07/18,15:00:21,Completed,19208
+16396,70552,48,Maguro Nigiri Sushi (3 Pcs) (Tuna),27/12/18,16:33:58,Completed,157
+16407,15603,34,Tom Yam Soup,24/01/19,19:31:53,Completed,940
+11773,89578,9,Plain kachori with Curry,12/07/18,02:39:00,Completed,222
+16850,71223,33,"Fry Kulcha , Kadhai Paneer.",30/05/18,19:10:42,Completed,1069
+11253,98071,97,Shrikhand Elichi,16/01/19,18:25:20,Not Completed,241
+15579,576,8,Chocolate And Nuts Banana Cake (500 gms),31/01/20,18:26:52,Completed,8537
+11805,63588,35,Vegetable Khichdi [500ml],08/07/19,13:32:27,Completed,111
+14877,91913,59,Chicken Tikka Masala (4 Pieces),05/06/19,01:01:49,Completed,7222
+10314,57235,27,Onion Doasa,27/02/18,13:48:46,Completed,8537
+18670,80185,24,Malai Palak Kofta (Half),02/05/19,23:31:04,Completed,15606
+14096,66599,97,Bhuna 3Pal Anda Cheese Roll,28/08/18,01:50:55,Completed,630
+15185,28534,48,Butter Chicken (Includes 2 Roomali) (1/2 kg),06/03/20,15:44:21,Completed,3181
+14397,80185,88,Roasted Corn Chowder,07/12/17,20:15:36,Completed,83810
